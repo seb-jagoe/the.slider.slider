@@ -5,4 +5,4 @@ This project was copied from a far superior coder, Mark Adam Benzan. See the ori
 
 I remade his project using only HTML and CSS as a quick challenge, and because I thought it was a really funny concept.
 
-🚀 <a href="https://hecklerjim.github.io/the.slider.slider/">Slider Slider</a>
+🚀 <a href="https://seb-jagoe.github.io/the.slider.slider/">Slider Slider</a>
